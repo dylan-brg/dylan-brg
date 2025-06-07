@@ -55,8 +55,8 @@ Mode manuel, stabilisé et plan de vol. Firmware basé sur FreeRTOS et MAVLink.
 ### 📫 Me contacter
 
 - ✉️ Email pro : dylan.burg@sbldevsolutions.com
-- 🌐 Site web : [sbl-dev-solutions.fr](https://sbldevsolutions.com)
-- 💼 LinkedIn : [linkedin.com/in/tonprofil]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/dylan-burg/))
-- 🐙 GitHub : [github.com/ton_pseudo]([https://github.com/ton_pseudo](https://github.com/dylan-brg))
+- 🌐 Site web : [sbldevsolutions.com](https://sbldevsolutions.com)
+- 💼 LinkedIn : [linkedin.com/in/dylan-burg]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/dylan-burg/))
+- 🐙 GitHub : [github.com/dylan-brg]([https://github.com/ton_pseudo](https://github.com/dylan-brg))
 
 
